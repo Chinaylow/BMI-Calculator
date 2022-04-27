@@ -1,0 +1,18 @@
+*{
+    text-align: center;
+    background-color: rgb(165, 154, 179);
+    font-size: 30px;
+    
+}
+.header{
+
+    background-color: aqua;
+    width: 500px;
+    margin: 0 auto;
+
+
+}
+.header h2{
+    margin-top: 200px;
+}
+
