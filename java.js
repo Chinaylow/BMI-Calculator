@@ -1,5 +1,5 @@
 var weight = parseFloat(prompt('Enter your weight in kg'));
-var height = parseFloat(prompt('Enter your height in cm'));
+var height = parseFloat(prompt('Enter your height in meter'));
 var txt = document.getElementById("txt")
 function bmi(){
     var bmiResult = weight / (height*height);
